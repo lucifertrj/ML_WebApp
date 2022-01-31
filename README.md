@@ -9,7 +9,7 @@ This web contains 4 demo datasets, and performs `EDA` using `Pandas`, `Matplotli
 Once EDA is performed, the user can choose a Machine Learning Classification Algorithm from the sidebar.
 The Classification Algorithms Used Are:
 ```
-
+Decision Tree, KNN, LogisticRegression, Naive Bayes And Random Forest
 ```
 
 
